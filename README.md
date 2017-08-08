@@ -7,4 +7,8 @@ Creating a new branch is quick & simple.
 
 =======
 # learngit
+<br>
+Creating a new branch is quick AND simple.
+<br>
+
  bd69d08ef836f9bc518965bebbdb38236663b346
