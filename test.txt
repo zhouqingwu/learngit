@@ -1,4 +1,6 @@
+add nee statsh
 tes stash
 one two three
+changes
 add test
 Creating a new branch is quick and simple.
