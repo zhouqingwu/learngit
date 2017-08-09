@@ -1,5 +1,7 @@
 add nee statsh
 tes stash
+=======
+bug fixed
 one two three
 changes
 add test
