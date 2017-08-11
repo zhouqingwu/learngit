@@ -1,4 +1,9 @@
+sdfs
+iadd nee statsh
+tes stash
+=======
 bug fixed
 one two three
+changes
 add test
 Creating a new branch is quick and simple.
